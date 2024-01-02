@@ -5,10 +5,57 @@ Explore the Tableau Projects Repository! Within, discover a compilation of proje
 
 ### Projects:
 
-1. Call Centre Dashboard:
-*File name: Call Centre Data.twbx
-            Call Centre Data.pptx*
-This
+1. **Call Centre:**
+   
+    * This project holds the Call Centre dataset for in-depth analysis using Tableau.
+    * Analysis of call centre data uncovers various aspects of types of calls.
+    * Exploring visualizations helps in understanding calls patterns and their durations.
+    * Folder name: Call Centre Data
 
+2. **Most Profitable Companies:**
 
-3. 
+    * This project contains the Asia Cup dataset for in-depth analysis using Tableau.
+    * Exploring the financial success of different companies by visualizing earnings per second.
+    * Utilizing Tableau's to craft dashboards, providing real-time insights into the profitability of various organizations.
+    * Folder name: Most-Profitable-Companies
+   
+
+3. **Asia Cup**
+
+    * This project holds the Asia Cup dataset for in-depth analysis using Tableau.
+    * The analysis provides insights and visualizations regarding various aspects of the Asia Cup.
+    * Offering valuable information to cricket enthusiasts, analysts, and fans.
+    * Folder name: Asia Cup
+
+4. **Visualization-Exam 1:**
+
+    * This project contains the startup dataset for in-depth analysis using Tableau.
+    * Data explores various startups from different countries and investment made.
+    * Gaining insights into the dynamics of the various startups through interactive charts and graphs.
+    * Folder name: Viz-Exam-1
+  
+5. **Weekly Sales Report:**
+   
+    * This proje
+    * Folder name: Sales Report-Viz-Week5
+  
+6. **HR Attrition Analysis:**
+
+  * This proje
+  * Folder name: HR Attrition
+
+***
+
+### How to use:
+
+* Clone this repository onto your local machine.
+* Access the Tableau workbook (.twb or .twbx file) linked to the desired project.
+* Establish a connection between the workbook and your data source.
+* Engage with the dashboards, filters, and parameters to dynamically explore visualizations and gain valuable insights.
+
+***
+
+Please share feedback, insights, suggest improvements (if any) and collaborate on Projects.
+
+🚀📊Enjoy your exploration and visualization journey!
+      
