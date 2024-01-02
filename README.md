@@ -1,2 +1,14 @@
-# Viz-Exam-1
-This GitHub repository contains the data and visualizations resulting from an in-depth survey of startups, sectors, themes, and investments across various countries performed using Tableau. The visualizations provide insights into the startup landscape, sector-wise distribution, prominent themes, and investment trends of various Countries.
+# Tableau Projects
+
+Explore the Tableau Projects Repository! Within, discover a compilation of projects reflecting my journey to refine skills. Each project offers a unique perspective on data visualization, analysis, and compelling storytelling through the lens of Tableau.
+***
+
+### Projects:
+
+1. Call Centre Dashboard:
+*File name: Call Centre Data.twbx
+            Call Centre Data.pptx*
+This
+
+
+3. 
